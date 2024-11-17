@@ -9,6 +9,7 @@
 ### Summary
 I was born and raised in Belarus, but six years ago I moved to Israel. Here, I completed basic programming training. Initially, I faced challenges in mastering the field, but over time, I realized my motivation to return to the IT sphere and succeed.
 I am actively studying web development, including JavaScript, HTML and CSS, and I am eager to develop my skills to start a career in IT. I am looking for an opportunity to contribute as a junior specialist and continue learning through hands-on experience.
+
 ---
 ### Skills
 * JavaScript, HTML, CSS
